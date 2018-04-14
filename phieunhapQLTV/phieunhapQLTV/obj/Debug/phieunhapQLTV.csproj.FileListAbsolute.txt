@@ -1,0 +1,9 @@
+c:\users\tobmo\documents\visual studio 2015\Projects\phieunhapQLTV\phieunhapQLTV\bin\Debug\phieunhapQLTV.exe.config
+c:\users\tobmo\documents\visual studio 2015\Projects\phieunhapQLTV\phieunhapQLTV\bin\Debug\phieunhapQLTV.exe
+c:\users\tobmo\documents\visual studio 2015\Projects\phieunhapQLTV\phieunhapQLTV\bin\Debug\phieunhapQLTV.pdb
+c:\users\tobmo\documents\visual studio 2015\Projects\phieunhapQLTV\phieunhapQLTV\obj\Debug\phieunhapQLTV.csprojResolveAssemblyReference.cache
+c:\users\tobmo\documents\visual studio 2015\Projects\phieunhapQLTV\phieunhapQLTV\obj\Debug\phieunhapQLTV.Form1.resources
+c:\users\tobmo\documents\visual studio 2015\Projects\phieunhapQLTV\phieunhapQLTV\obj\Debug\phieunhapQLTV.Properties.Resources.resources
+c:\users\tobmo\documents\visual studio 2015\Projects\phieunhapQLTV\phieunhapQLTV\obj\Debug\phieunhapQLTV.csproj.GenerateResource.Cache
+c:\users\tobmo\documents\visual studio 2015\Projects\phieunhapQLTV\phieunhapQLTV\obj\Debug\phieunhapQLTV.exe
+c:\users\tobmo\documents\visual studio 2015\Projects\phieunhapQLTV\phieunhapQLTV\obj\Debug\phieunhapQLTV.pdb
